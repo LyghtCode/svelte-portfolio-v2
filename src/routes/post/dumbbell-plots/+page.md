@@ -185,7 +185,7 @@ labs(x=NULL, y=NULL, title="Republicans are less worried about COVID-19",
        subtitle="How concerned are you that you or someone
 								 you know will be infected with the coronavirus?",
        caption="Source: Quinnipiac University Poll, March 9, 2020. Q27
-								\n\nDesign: Connor Rothschild")
+								\n\nDesign: Mr. Freeze")
 ```
 
 <Image alt="In addition to the prior plot, there are now axis labels and a title."  src="/images/post/dumbbell-plots/process-5.jpg"></Image>

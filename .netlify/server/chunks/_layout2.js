@@ -11,7 +11,7 @@ const Layout = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { name } = $$props;
   let { description } = $$props;
   let { imageUrl } = $$props;
-  let image = `https://og-image-eight-eta.vercel.app/Connor Rothschild | ${name}.png?subtitle=Some details about my work experience at ${name}.&theme=light&md=true&hasImage=true`;
+  let image = `https://og-image-eight-eta.vercel.app/Mr. Freeze | ${name}.png?subtitle=Some details about my work experience at ${name}.&theme=light&md=true&hasImage=true`;
   let element, intersecting;
   if ($$props.name === void 0 && $$bindings.name && name !== void 0)
     $$bindings.name(name);

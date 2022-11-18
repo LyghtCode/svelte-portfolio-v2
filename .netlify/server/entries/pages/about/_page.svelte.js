@@ -13,7 +13,7 @@ const css = {
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   $$result.css.add(css);
   return `${validate_component(Transition, "Transition").$$render($$result, {}, {}, {})}
-${validate_component(Seo, "Seo").$$render($$result, { title: `About | Connor Rothschild` }, {}, {})}
+${validate_component(Seo, "Seo").$$render($$result, { title: `About | Mr. Freeze` }, {}, {})}
 <main class="${"main"}">${validate_component(BackTo, "BackTo").$$render(
     $$result,
     {
@@ -24,7 +24,7 @@ ${validate_component(Seo, "Seo").$$render($$result, { title: `About | Connor Rot
     {},
     {}
   )}
-  <h1 class="${"page-title transition-title overflow-hidden"}" style="${"border-bottom: none; margin-bottom: 1rem; padding-bottom: 0;"}">Connor Rothschild
+  <h1 class="${"page-title transition-title overflow-hidden"}" style="${"border-bottom: none; margin-bottom: 1rem; padding-bottom: 0;"}">Mr. Freeze
   </h1>
   <h2 class="${"content-description transition-subtitle centered overflow-hidden"}" style="${"padding-bottom: 2.5rem; margin-bottom: 4rem;"}">is a data scientist, web developer, and designer in Houston, TX.
   </h2>

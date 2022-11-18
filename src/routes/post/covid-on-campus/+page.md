@@ -38,7 +38,7 @@ Despite such complaints, Rice opened its doors to in-person students on
 August 11th. And despite all of the concerns, the university has done a
 remarkable job at keeping COVID case counts relatively low.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A big part of <a href="https://twitter.com/RiceUniversity?ref_src=twsrc%5Etfw">@RiceUniversity</a>&#39;s approach to COVID-19: test often. Within the first two weeks of August, the university recorded over 4000 tests, with a total of 19 positive cases (0.41%). <a href="https://t.co/IDI3qtIE6f">pic.twitter.com/IDI3qtIE6f</a></p>&mdash; Connor Rothschild (@CL_Rothschild) <a href="https://twitter.com/CL_Rothschild/status/1296495845664272386?ref_src=twsrc%5Etfw">August 20, 2020</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A big part of <a href="https://twitter.com/RiceUniversity?ref_src=twsrc%5Etfw">@RiceUniversity</a>&#39;s approach to COVID-19: test often. Within the first two weeks of August, the university recorded over 4000 tests, with a total of 19 positive cases (0.41%). <a href="https://t.co/IDI3qtIE6f">pic.twitter.com/IDI3qtIE6f</a></p>&mdash; Mr. Freeze (@CL_Rothschild) <a href="https://twitter.com/CL_Rothschild/status/1296495845664272386?ref_src=twsrc%5Etfw">August 20, 2020</a></blockquote>
 
 Rice’s success at maintaining low case
 counts–[recording](https://coronavirus.rice.edu/) only 37 positive cases

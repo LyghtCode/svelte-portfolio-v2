@@ -37,7 +37,7 @@ const Job = create_ssr_component(($$result, $$props, $$bindings, slots) => {
     }
   })}`;
 });
-let title = "Experience | Connor Rothschild";
+let title = "Experience | Mr. Freeze";
 let description = "Some of my work experience.";
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { data } = $$props;

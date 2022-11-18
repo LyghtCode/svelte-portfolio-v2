@@ -19,7 +19,7 @@
 
 <Transition split={"words"} stagger={0.07} />
 <Seo
-  title={`${title} | Connor Rothschild`}
+  title={`${title} | Mr. Freeze`}
   description={`${organization}, ${date}`}
   {image}
 />

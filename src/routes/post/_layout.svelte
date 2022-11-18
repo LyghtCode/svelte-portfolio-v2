@@ -19,7 +19,7 @@
 </script>
 
 <Transition split={"words"} stagger={0.07} />
-<Seo title={`${title} | Connor Rothschild`} {description} {image} />
+<Seo title={`${title} | Mr. Freeze`} {description} {image} />
 <CornerTitle {title} subtitle={dateFormat(date)} {intersecting} />
 <main>
   <IntersectionObserver {element} bind:intersecting rootMargin="-60px">

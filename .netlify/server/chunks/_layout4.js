@@ -36,7 +36,7 @@ const Layout = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 ${validate_component(Seo, "Seo").$$render(
       $$result,
       {
-        title: `${title} | Connor Rothschild`,
+        title: `${title} | Mr. Freeze`,
         description,
         image
       },

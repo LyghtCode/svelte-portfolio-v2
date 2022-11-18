@@ -71,7 +71,7 @@
       expanded = false;
       // If the user is already on the current page, clicking on the same URL as current should trigger the slide up, not the abrupt page reload.
       closedViaX = $page.url.pathname.replace(/^\/([^\/]*).*$/, "$1") == "";
-    }}>CR</a
+    }}>???</a
   >
   <button
     class="toggle-button"
@@ -125,7 +125,7 @@
         bind:hovered
         bind:closedViaX
         code={"award"}
-        title={"Awards"}
+        title={"Shows"}
         index={2}
       />
       <NavListItem
@@ -137,7 +137,7 @@
         title={"About"}
         index={3}
       />
-      <NavListItem
+      <!-- <NavListItem
         bind:expanded
         bind:anyHovered
         bind:hovered
@@ -145,7 +145,7 @@
         code={"post"}
         title={"Blog"}
         index={4}
-      />
+      /> -->
     </ul>
   </div>
 {/if}

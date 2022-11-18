@@ -96,7 +96,7 @@ const css = {
   code: ".posts-grid.svelte-1ge7og7{display:grid;grid-template-columns:repeat(2, 1fr);grid-auto-rows:1fr;grid-gap:10px}.button.svelte-1ge7og7{margin:12px 0 12px auto}.archives-title.svelte-1ge7og7{font-size:3rem;margin:1.5rem 1rem 1rem 1rem;border-top:1px solid rgba(var(--accent-color-rgb), 0.5);padding:2rem 0 0.5rem 0;font-weight:100;color:var(--pure-text-color);text-transform:uppercase;text-align:center}@media screen and (max-width: 668px){.posts-grid.svelte-1ge7og7{grid-template-columns:auto;grid-template-rows:repeat(1, 1fr);grid-auto-rows:auto}.archives-title.svelte-1ge7og7{font-size:9vw}}",
   map: null
 };
-let title = "Blog | Connor Rothschild";
+let title = "Blog | Mr. Freeze";
 let description = "Some of my writing.";
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { data } = $$props;

@@ -7,7 +7,7 @@
   export let imageUrl;
 
   import Seo from "$lib/Seo.svelte";
-  let image = `https://og-image-eight-eta.vercel.app/Connor Rothschild | ${name}.png?subtitle=Some details about my work experience at ${name}.&theme=light&md=true&hasImage=true`;
+  let image = `https://og-image-eight-eta.vercel.app/Mr. Freeze | ${name}.png?subtitle=Some details about my work experience at ${name}.&theme=light&md=true&hasImage=true`;
 
   import IntersectionObserver from "svelte-intersection-observer";
   let element, intersecting;

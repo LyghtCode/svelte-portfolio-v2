@@ -6,7 +6,7 @@
     <div class="left">
       <h1 class="name">Thanks for visiting <span class="wave">👋</span></h1>
       <div class="column-content copyright">
-        <p style="font-weight: 400; font-size: 1.2rem;">Connor Rothschild</p>
+        <p style="font-weight: 400; font-size: 1.2rem;">Mr. Freeze</p>
         <p style="font-size: .95rem;">All rights reserved © 2022</p>
       </div>
     </div>
@@ -14,7 +14,7 @@
       <div class="column">
         <h5 class="column-header">Connect</h5>
         <div class="column-content connect">
-          <a
+          <!-- <a
             class="link"
             target="_blank"
             rel="noopener noreferrer"
@@ -25,7 +25,7 @@
             target="_blank"
             rel="noopener noreferrer"
             href="https://github.com/connorrothschild/">GitHub</a
-          >
+          > -->
           <a
             class="link"
             target="_blank"
@@ -36,7 +36,7 @@
         </div>
       </div>
       <div class="column">
-        <h5 class="column-header">Contact</h5>
+        <!-- <h5 class="column-header">Contact</h5>
         <div class="column-content contact">
           <a
             class="link"
@@ -56,7 +56,7 @@
             rel="noopener noreferrer"
             href="https://calendly.com/connorrothschild/meeting">Meet</a
           >
-        </div>
+        </div> -->
       </div>
     </div>
   </div>

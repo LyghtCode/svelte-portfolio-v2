@@ -179,7 +179,7 @@ map_bw <- plot_bw +
     aes(
       x = left + .035,
       y = top_rect + .005,
-      label = "Design: Connor Rothschild"
+      label = "Design: Mr. Freeze"
     ),
     size = 1.5,
     color = "black",
@@ -291,7 +291,7 @@ map_gold <- plot_gold +
     aes(
       x = left + .035,
       y = top_rect + .005,
-      label = "Design: Connor Rothschild"
+      label = "Design: Mr. Freeze"
     ),
     size = 1.5,
     color = "white",

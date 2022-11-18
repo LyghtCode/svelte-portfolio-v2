@@ -168,7 +168,7 @@ You can create your own noise texture on a site [like this one](https://www.nois
 
 I had a blast integrating a mixture of subtle and not-so-subtle animations into my site. For example, when you first visit the site, you're greeted with my name flying into view ([code](https://github.com/connorrothschild/.com/blob/master/src/scripts/transitions/rotate.js)):
 
-<video controls muted preload="metadata" src="/images/post/this-site/hero.mp4" alt="A video showcasing my 'hero' section, where the words 'Connor Rothschild' fly into view."></video>
+<video controls muted preload="metadata" src="/images/post/this-site/hero.mp4" alt="A video showcasing my 'hero' section, where the words 'Mr. Freeze' fly into view."></video>
 
 When you scroll throughout the site, content more subtly fades into view ([code](https://github.com/connorrothschild/.com/blob/master/src/lib/TransitionInView.svelte)):
 

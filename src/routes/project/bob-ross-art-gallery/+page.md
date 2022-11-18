@@ -6,7 +6,7 @@ date: "2021-03-22"
 audience: "The world!"
 featured: true
 image: bob-ross-art-gallery/header.png
-img_alt: 'A header image that says "The Bob Ross (virtual) Art Gallery"'
+img_alt: 'Piece of Mind'
 techstack: [D3.js, Svelte, R, Scrollama]
 github: "https://github.com/connorrothschild/bob-ross-art-gallery/"
 url: "https://connorrothschild.github.io/bob-ross-art-gallery/"

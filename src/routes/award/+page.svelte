@@ -21,7 +21,7 @@
   let anyHovered;
 
   import Seo from "$lib/Seo.svelte";
-  let title = "Awards | Connor Rothschild";
+  let title = "Awards | Mr. Freeze";
   let description = "Some of my awards.";
   let image = `https://og-image-eight-eta.vercel.app/${title}.png?subtitle=${description}&theme=light&md=true&hasImage=true`;
 </script>

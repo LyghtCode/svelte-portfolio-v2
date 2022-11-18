@@ -370,7 +370,7 @@ ui <- fluidPage(
   # article title & name
   fluidRow(HTML("<center>
                 <h1>Automation and Its Impact on Jobs</h1>
-                <p style='font-size:26px'> by <a href='https://connorrothschild.github.io/' target='_blank'>Connor Rothschild</a></p>
+                <p style='font-size:26px'> by <a href='https://connorrothschild.github.io/' target='_blank'>Mr. Freeze</a></p>
                 </center>")
   ),
 

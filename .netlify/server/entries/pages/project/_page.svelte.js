@@ -15,7 +15,7 @@ const css = {
   code: ".projects-container.svelte-uvasr7{display:grid;grid-template-columns:repeat(2, 1fr);grid-gap:10px}@media screen and (max-width: 700px){.projects-container.svelte-uvasr7{grid-template-columns:auto;grid-template-rows:repeat(1, 1fr)}}",
   map: null
 };
-let title = "Projects | Connor Rothschild";
+let title = "Projects | Mr. Freeze";
 let description = "Some of my projects.";
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { data } = $$props;

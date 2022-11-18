@@ -17,7 +17,7 @@
   <Hero />
   <Projects projects={data.projects} />
   <Awards awards={data.awards} {isMobile} />
-  <Blog posts={data.posts} {isMobile} />
+  <!-- <Blog posts={data.posts} {isMobile} /> -->
 </main>
 
 <style>

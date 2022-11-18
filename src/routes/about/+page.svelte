@@ -9,7 +9,7 @@
 </script>
 
 <Transition />
-<Seo title={`About | Connor Rothschild`} />
+<Seo title={`About | Mr. Freeze`} />
 <main class="main">
   <BackTo
     href="/"
@@ -20,7 +20,7 @@
     class="page-title transition-title overflow-hidden"
     style="border-bottom: none; margin-bottom: 1rem; padding-bottom: 0;"
   >
-    Connor Rothschild
+    Mr. Freeze
   </h1>
   <h2
     class="content-description transition-subtitle centered overflow-hidden"

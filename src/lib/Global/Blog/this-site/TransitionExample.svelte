@@ -30,7 +30,7 @@
 
 <div class="example">
   <div class="button" on:click={transition}>Transition</div>
-  <h1 id="transition-me">Hi, I'm Connor Rothschild!</h1>
+  <h1 id="transition-me">Hi, I'm Mr. Freeze!</h1>
   <a
     class="code no-underline"
     href="https://github.com/connorrothschild/.com/tree/master/src/lib/Global/Blog/this-site/TransitionExample.svelte"

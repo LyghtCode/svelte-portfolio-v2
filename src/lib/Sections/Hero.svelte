@@ -7,9 +7,9 @@
 
   let subtitleIndex = 0;
   let subtitleOptions = [
-    "on the web.",
-    "with data.",
-    "like these <span style='vertical-align: top; font-size: .8em;'>&darr;</span>",
+    "singer?",
+    "trapper?",
+    "anti-hero?",
   ];
   $: subtitleString = subtitleOptions[subtitleIndex];
 
@@ -62,20 +62,20 @@
     class="hero-container"
     style="transition: 1000ms cubic-bezier(.3, 1, 1, .3); transform: translateX({xDeg}px) translateY({yDeg}px);"
   >
-    <h1 class="overline begin-invisible" class:transitioned>Hi, I'm</h1>
+    <h1 class="overline begin-invisible" class:transitioned>WHO IS</h1>
     <div class="title">
       <h1 class="connor begin-invisible gradient-accented" class:transitioned>
-        Connor
+        Mr.
       </h1>
       <h1
         class="rothschild begin-invisible gradient-accented"
         class:transitioned
       >
-        Rothschild
+        Freeze???
       </h1>
     </div>
     <h2 class="subtitle begin-invisible" class:transitioned>
-      And I tell visual stories
+      ......
       {#key subtitleString}
         <span
           in:fly={{ y: 30 }}

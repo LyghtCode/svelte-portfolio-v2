@@ -8,7 +8,7 @@ import "gsap";
 import "gsap/dist/SplitText.js";
 import "../../../chunks/motion.js";
 import "../../../chunks/index2.js";
-let title = "Awards | Connor Rothschild";
+let title = "Awards | Mr. Freeze";
 let description = "Some of my awards.";
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { data } = $$props;

@@ -40,7 +40,7 @@ opening campus. The petition garnered nearly 100 faculty signatures.</p>
 <p>Despite such complaints, Rice opened its doors to in-person students on
 August 11th. And despite all of the concerns, the university has done a
 remarkable job at keeping COVID case counts relatively low.</p>
-<blockquote class="${"twitter-tweet"}"><p lang="${"en"}" dir="${"ltr"}">A big part of <a href="${"https://twitter.com/RiceUniversity?ref_src=twsrc%5Etfw"}">@RiceUniversity</a>&#39;s approach to COVID-19: test often. Within the first two weeks of August, the university recorded over 4000 tests, with a total of 19 positive cases (0.41%). <a href="${"https://t.co/IDI3qtIE6f"}">pic.twitter.com/IDI3qtIE6f</a></p>\u2014 Connor Rothschild (@CL_Rothschild) <a href="${"https://twitter.com/CL_Rothschild/status/1296495845664272386?ref_src=twsrc%5Etfw"}">August 20, 2020</a></blockquote>
+<blockquote class="${"twitter-tweet"}"><p lang="${"en"}" dir="${"ltr"}">A big part of <a href="${"https://twitter.com/RiceUniversity?ref_src=twsrc%5Etfw"}">@RiceUniversity</a>&#39;s approach to COVID-19: test often. Within the first two weeks of August, the university recorded over 4000 tests, with a total of 19 positive cases (0.41%). <a href="${"https://t.co/IDI3qtIE6f"}">pic.twitter.com/IDI3qtIE6f</a></p>\u2014 Mr. Freeze (@CL_Rothschild) <a href="${"https://twitter.com/CL_Rothschild/status/1296495845664272386?ref_src=twsrc%5Etfw"}">August 20, 2020</a></blockquote>
 <p>Rice\u2019s success at maintaining low case
 counts\u2013<a href="${"https://coronavirus.rice.edu/"}" rel="${"nofollow"}">recording</a> only 37 positive cases
 across 36,183 tests as of October 10\u2013is not typical of most colleges. At

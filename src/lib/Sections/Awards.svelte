@@ -31,18 +31,18 @@
     <div class="see-all-flex">
       <h1 class="page-overline">
         <!-- {isMobile ? "Selected awards" : "Awards"} -->
-        02. Selected awards
+        Intel
       </h1>
       <a
         class="page-overline padding-bottom see-all"
         sveltekit:prefetch
-        href="/award">See all awards &#8599;</a
+        href="/award">See all sightings</a
       >
     </div>
     <SectionTitle {intersecting} element="#awards-title">
       <h1 id="awards-title" class="section-title overflow-hidden">
-        Awards I’ve
-        <span class="gradient-accented bolded ">won</span>
+        Last Spotted
+        <span class="gradient-accented bolded ">@</span>
       </h1>
     </SectionTitle>
 

@@ -228,7 +228,7 @@ ${validate_component(Image, "Image").$$render(
        subtitle<span class="token operator">=</span>"How concerned are you that you or someone
 								 you know will be infected with the coronavirus?"<span class="token punctuation">,</span>
        caption<span class="token operator">=</span>"Source<span class="token operator">:</span> Quinnipiac University Poll<span class="token punctuation">,</span> March <span class="token number">9</span><span class="token punctuation">,</span> <span class="token number">2020.</span> Q27
-								&#92;n&#92;nDesign<span class="token operator">:</span> Connor Rothschild"<span class="token punctuation">)</span></code>`}<!-- HTML_TAG_END --></pre>
+								&#92;n&#92;nDesign<span class="token operator">:</span> Mr. Freeze"<span class="token punctuation">)</span></code>`}<!-- HTML_TAG_END --></pre>
 ${validate_component(Image, "Image").$$render(
         $$result,
         {

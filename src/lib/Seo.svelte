@@ -1,5 +1,5 @@
 <script>
-  export let title = "Connor Rothschild";
+  export let title = "Mr. Freeze";
   export let description = "I tell visual stories on the web.";
   export let keywords = "web design, data science, data visualization";
   export let image = "https://connorr.netlify.app/social.png";
@@ -22,6 +22,6 @@
   <meta name="robots" content="index, follow" />
   <meta name="abstract" content={description} />
   <meta name="summary" content={description} />
-  <meta name="author" content="Connor Rothschild" />
+  <meta name="author" content="Mr. Freeze" />
   <meta name="url" content="http://www.connorrothschild.com" />
 </svelte:head>

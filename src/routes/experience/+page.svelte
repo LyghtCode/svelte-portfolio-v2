@@ -15,7 +15,7 @@
   );
 
   import Seo from "$lib/Seo.svelte";
-  let title = "Experience | Connor Rothschild";
+  let title = "Experience | Mr. Freeze";
   let description = "Some of my work experience.";
   let image = `https://og-image-eight-eta.vercel.app/${title}.png?subtitle=${description}&theme=light&md=true&hasImage=true`;
 </script>

@@ -114,7 +114,7 @@ const css$3 = {
 const Footer = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   $$result.css.add(css$3);
   return `<footer class="${"svelte-1n8zlbx"}"><div class="${"flex-container svelte-1n8zlbx"}"><div class="${"left svelte-1n8zlbx"}"><h1 class="${"name svelte-1n8zlbx"}">Thanks for visiting <span class="${"wave svelte-1n8zlbx"}">\u{1F44B}</span></h1>
-      <div class="${"column-content copyright svelte-1n8zlbx"}"><p style="${"font-weight: 400; font-size: 1.2rem;"}">Connor Rothschild</p>
+      <div class="${"column-content copyright svelte-1n8zlbx"}"><p style="${"font-weight: 400; font-size: 1.2rem;"}">Mr. Freeze</p>
         <p style="${"font-size: .95rem;"}">All rights reserved \xA9 2022</p></div></div>
     <div class="${"right svelte-1n8zlbx"}"><div class="${"column svelte-1n8zlbx"}"><h5 class="${"column-header svelte-1n8zlbx"}">Connect</h5>
         <div class="${"column-content connect svelte-1n8zlbx"}"><a class="${"link svelte-1n8zlbx"}" target="${"_blank"}" rel="${"noopener noreferrer"}" href="${"https://www.linkedin.com/in/connor-rothschild/"}">LinkedIn</a>

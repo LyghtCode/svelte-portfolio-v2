@@ -32,7 +32,7 @@ const TransitionExample = create_ssr_component(($$result, $$props, $$bindings, s
   gsap.registerPlugin(SplitText);
   $$result.css.add(css);
   return `<div class="${"example svelte-60m7ko"}"><div class="${"button svelte-60m7ko"}">Transition</div>
-  <h1 id="${"transition-me"}" class="${"svelte-60m7ko"}">Hi, I&#39;m Connor Rothschild!</h1>
+  <h1 id="${"transition-me"}" class="${"svelte-60m7ko"}">Hi, I&#39;m Mr. Freeze!</h1>
   <a class="${"code no-underline svelte-60m7ko"}" href="${"https://github.com/connorrothschild/.com/tree/master/src/lib/Global/Blog/this-site/TransitionExample.svelte"}" target="${"_blank"}" rel="${"noopener noreferrer"}">See source code</a>
 </div>`;
 });
@@ -190,7 +190,7 @@ function supportsHEVCAlpha() &#123;
 <p>You can create your own noise texture on a site <a href="${"https://www.noisetexturegenerator.com/"}" rel="${"nofollow"}">like this one</a>, and use the <code>&lt;Noise /&gt;</code> component above to add a bit of flare to your site.</p>
 <h2 id="${"preference-respecting-animations"}"><a href="${"#preference-respecting-animations"}">Preference-respecting animations</a></h2>
 <p>I had a blast integrating a mixture of subtle and not-so-subtle animations into my site. For example, when you first visit the site, you\u2019re greeted with my name flying into view (<a href="${"https://github.com/connorrothschild/.com/blob/master/src/scripts/transitions/rotate.js"}" rel="${"nofollow"}">code</a>):</p>
-<video controls muted preload="${"metadata"}" src="${"/images/post/this-site/hero.mp4"}" alt="${"A video showcasing my 'hero' section, where the words 'Connor Rothschild' fly into view."}"></video>
+<video controls muted preload="${"metadata"}" src="${"/images/post/this-site/hero.mp4"}" alt="${"A video showcasing my 'hero' section, where the words 'Mr. Freeze' fly into view."}"></video>
 <p>When you scroll throughout the site, content more subtly fades into view (<a href="${"https://github.com/connorrothschild/.com/blob/master/src/lib/TransitionInView.svelte"}" rel="${"nofollow"}">code</a>):</p>
 <video controls muted preload="${"metadata"}" src="${"/images/post/this-site/inview.mp4"}" alt="${"A video showcasing awards progressively showing as the user scrolls down."}"></video>
 <p>Both of these animations (and all others on the site) respect the <a href="${"https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion"}" rel="${"nofollow"}">user\u2019s <code>prefers-reduced-motion</code> setting</a>. Practically, this looks like applying animation functions and transitions <strong>only when the user has no motion preference</strong>. In CSS, that looks like this:</p>

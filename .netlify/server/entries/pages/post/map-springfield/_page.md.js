@@ -165,7 +165,7 @@ as borders using <code>geom_rect</code>).</p>
     aes<span class="token punctuation">(</span>
       x <span class="token operator">=</span> left <span class="token operator">+</span> <span class="token number">.035</span><span class="token punctuation">,</span>
       y <span class="token operator">=</span> top_rect <span class="token operator">+</span> <span class="token number">.005</span><span class="token punctuation">,</span>
-      label <span class="token operator">=</span> <span class="token string">"Design: Connor Rothschild"</span>
+      label <span class="token operator">=</span> <span class="token string">"Design: Mr. Freeze"</span>
     <span class="token punctuation">)</span><span class="token punctuation">,</span>
     size <span class="token operator">=</span> <span class="token number">1.5</span><span class="token punctuation">,</span>
     color <span class="token operator">=</span> <span class="token string">"black"</span><span class="token punctuation">,</span>
@@ -282,7 +282,7 @@ map_gold <span class="token operator">&lt;-</span> plot_gold <span class="token 
     aes<span class="token punctuation">(</span>
       x <span class="token operator">=</span> left <span class="token operator">+</span> <span class="token number">.035</span><span class="token punctuation">,</span>
       y <span class="token operator">=</span> top_rect <span class="token operator">+</span> <span class="token number">.005</span><span class="token punctuation">,</span>
-      label <span class="token operator">=</span> <span class="token string">"Design: Connor Rothschild"</span>
+      label <span class="token operator">=</span> <span class="token string">"Design: Mr. Freeze"</span>
     <span class="token punctuation">)</span><span class="token punctuation">,</span>
     size <span class="token operator">=</span> <span class="token number">1.5</span><span class="token punctuation">,</span>
     color <span class="token operator">=</span> <span class="token string">"white"</span><span class="token punctuation">,</span>
